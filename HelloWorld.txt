@@ -1,1 +1,3 @@
 Hello World! I'm a RockStar!
+
+Now, I'm testing it on my new Mac.
